@@ -1,0 +1,22 @@
+{
+  "name": "solomiia3.github.io",
+  "version": "1.0.0",
+  "description": "Witam fanów Minecrafta!!!\r Czy zaczynamy? ;)\r Zaczynamy! 😎",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solomiia3/solomiia3.github.io.git"
+  },
+  "author": "Solomiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solomiia3/solomiia3.github.io/issues"
+  },
+  "homepage": "https://github.com/Solomiia3/solomiia3.github.io#readme",
+  "dependencies": {
+    "vite": "^3.1.2"
+  }
+}
